@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "https://NeNaO4ke.github.io/portfolio/static/css/main.b36a9eac.css",
+    "main.js": "https://NeNaO4ke.github.io/portfolio/static/js/main.c317169f.js",
+    "static/js/787.28cb0dcd.chunk.js": "https://NeNaO4ke.github.io/portfolio/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "https://NeNaO4ke.github.io/portfolio/index.html",
+    "main.b36a9eac.css.map": "https://NeNaO4ke.github.io/portfolio/static/css/main.b36a9eac.css.map",
+    "main.c317169f.js.map": "https://NeNaO4ke.github.io/portfolio/static/js/main.c317169f.js.map",
+    "787.28cb0dcd.chunk.js.map": "https://NeNaO4ke.github.io/portfolio/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b36a9eac.css",
+    "static/js/main.c317169f.js"
+  ]
+}
